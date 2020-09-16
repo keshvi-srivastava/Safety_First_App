@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:text="   Crime rate against women is at its peak, every single day, women from all walks of life are being assaulted, molested, and violated. The streets, public transport, public spaces in particular have become the territory of the crimes. Safety First, designed especially for women, is a mobile application which can be used to aid personal safety. This project aims to make an app to keep users safe with technology enabled features like GPS and SMS. The application includes the features to send emergency messages to the saved contacts. The key feature of the app is that we can now send the alert messages via Bluetooth activation. The app comes with a bluetooth wearable device which has an inbuilt bluetooth module, whose address is used to activate the sending sms function of the app. In the world of worrying, this application serves the purpose. With new features in the market, app provides multiple solutions to a primitive problem."
+        android:id="@+id/textView7"
+        android:layout_marginBottom="85dp"
+        android:textSize="12sp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true" />
+</RelativeLayout>
